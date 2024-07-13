@@ -1,0 +1,15 @@
+D:\Work Soft go\emirates\Api-Emiratesnbd\Api-Emiratesnbd\Infrastrucure\bin\Debug\net8.0\Infrastrucure.deps.json
+D:\Work Soft go\emirates\Api-Emiratesnbd\Api-Emiratesnbd\Infrastrucure\bin\Debug\net8.0\Infrastrucure.dll
+D:\Work Soft go\emirates\Api-Emiratesnbd\Api-Emiratesnbd\Infrastrucure\bin\Debug\net8.0\Infrastrucure.pdb
+D:\Work Soft go\emirates\Api-Emiratesnbd\Api-Emiratesnbd\Infrastrucure\bin\Debug\net8.0\DAL.dll
+D:\Work Soft go\emirates\Api-Emiratesnbd\Api-Emiratesnbd\Infrastrucure\bin\Debug\net8.0\DAL.pdb
+D:\Work Soft go\emirates\Api-Emiratesnbd\Api-Emiratesnbd\Infrastrucure\obj\Debug\net8.0\Infrastrucure.csproj.AssemblyReference.cache
+D:\Work Soft go\emirates\Api-Emiratesnbd\Api-Emiratesnbd\Infrastrucure\obj\Debug\net8.0\Infrastrucure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work Soft go\emirates\Api-Emiratesnbd\Api-Emiratesnbd\Infrastrucure\obj\Debug\net8.0\Infrastrucure.AssemblyInfoInputs.cache
+D:\Work Soft go\emirates\Api-Emiratesnbd\Api-Emiratesnbd\Infrastrucure\obj\Debug\net8.0\Infrastrucure.AssemblyInfo.cs
+D:\Work Soft go\emirates\Api-Emiratesnbd\Api-Emiratesnbd\Infrastrucure\obj\Debug\net8.0\Infrastrucure.csproj.CoreCompileInputs.cache
+D:\Work Soft go\emirates\Api-Emiratesnbd\Api-Emiratesnbd\Infrastrucure\obj\Debug\net8.0\Infrastrucure.csproj.CopyComplete
+D:\Work Soft go\emirates\Api-Emiratesnbd\Api-Emiratesnbd\Infrastrucure\obj\Debug\net8.0\Infrastrucure.dll
+D:\Work Soft go\emirates\Api-Emiratesnbd\Api-Emiratesnbd\Infrastrucure\obj\Debug\net8.0\refint\Infrastrucure.dll
+D:\Work Soft go\emirates\Api-Emiratesnbd\Api-Emiratesnbd\Infrastrucure\obj\Debug\net8.0\Infrastrucure.pdb
+D:\Work Soft go\emirates\Api-Emiratesnbd\Api-Emiratesnbd\Infrastrucure\obj\Debug\net8.0\ref\Infrastrucure.dll
